@@ -1,0 +1,4 @@
+config:
+  aws:region: us-east-1
+  poc-pulumi:amiId: ami-03f6c2c562b3df715
+  poc-pulumi:instanceType: t4g.small
